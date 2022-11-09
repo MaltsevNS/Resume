@@ -1,11 +1,11 @@
 Nikita Maltsev - QA Engineer
 ---------------
-maltsevns93@gmail.com |
+maltsevns93@gmail.com | WhatsApp +79086376735 | Telegram https://t.me/Maltsevns93
 
 Title:
 ---------------
 * **Стек**: Яндекс.Трекер, Jira, TestRail, AndroidStudio, (Postman), Apidoc / Swagger,
-				  SQL (PostgreSQL, CygWin), Charles, Node.js, библиотека Puppeteer
+		    SQL (PostgreSQL, CygWin), Charles, Node.js, библиотека Puppeteer
 
 
 Навыки:
