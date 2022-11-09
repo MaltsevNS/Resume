@@ -4,8 +4,17 @@ maltsevns93@gmail.com | WhatsApp +79086376735 | Telegram https://t.me/Maltsevns9
 
 Стек:
 ---------------
-  Яндекс.Трекер, Jira, TestRail, AndroidStudio, (Postman), Apidoc / Swagger,
-  SQL (PostgreSQL, CygWin), Charles, Node.js, библиотека Puppeteer
+ * Яндекс.Трекер, 
+ * Jira, 
+ * TestRail, 
+ * AndroidStudio, 
+ * Postman, 
+ * Apidoc 
+ * Swagger,
+ * SQL (PostgreSQL),
+ * CygWin,
+ * Charles,
+ * Node.js, библиотека Puppeteer
 
 
 Навыки:
