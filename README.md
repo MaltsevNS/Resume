@@ -2,10 +2,10 @@ Nikita Maltsev - QA Engineer
 ---------------
 maltsevns93@gmail.com | WhatsApp +79086376735 | Telegram https://t.me/Maltsevns93
 
-Title:
+Стек:
 ---------------
-* **Стек**: Яндекс.Трекер, Jira, TestRail, AndroidStudio, (Postman), Apidoc / Swagger,
-		    SQL (PostgreSQL, CygWin), Charles, Node.js, библиотека Puppeteer
+  Яндекс.Трекер, Jira, TestRail, AndroidStudio, (Postman), Apidoc / Swagger,
+  SQL (PostgreSQL, CygWin), Charles, Node.js, библиотека Puppeteer
 
 
 Навыки:
@@ -33,175 +33,60 @@ Title:
 Опыт
 ----------
 
-**QA-стажер**, *Xsolla*, *команда Launcher* Октябрь 2022 — по настоящее время
+ **QA-стажер**, *Xsolla*, *команда Launcher*
     Октябрь 2022 — по настоящее время
 	
   - Выполнение функционального тестирования.
   - Выполнение тестирования API
  
  
- **Ведущий инженер производственного отдела**, *ЗАО фирма АЗОС*, *команда Launcher* 
+ **Ведущий инженер производственного отдела**, *ЗАО фирма АЗОС* 
     Январь 2020 — по настоящее время
 
-  - Обеспечение непрерывности и качества продукции
+  - Разработка и подготовка исходной документации
   - Разработка и подготовка сопроводительной документации
+  - Обеспечение непрерывности и качества продукции
+  - Ввод объектов в эксплуатацию
+
+
+ **QA-стажер**, *Xsolla*, *команда Launcher*
+    Май 2022 — Июнь 2022
+	
+  - Знакомство с продуктом
+  - Знакомство с методами тестирования
+
+
+ **Заместитель начальника ПТО**, *ППМУП Водоканал* 
+    Январь 2019 — Январь 2020
+
+  - Разработка и подготовка сопроводительной документации
+  - Надзор за качеством проводимых работ
+  - Ввод объектов в эксплуатацию
+
+
+ **Инженер-конструктор**, *ОАО Уральский трубный завод* 
+    Август 2016 — Январь 2019
+
+  - Разработка и подготовка исходной документации
+  - Надзор за качеством продукции
+  - Выполнение технического контроля на монтаже
+
+
+ **Инженер-конструктор**, *ОАО Уральский трубный завод* 
+    Сентябрь 2015 — Июль 2016
+
   - Разработка и подготовка исходной документации
 
 
-
-ЗАО фирма АЗОС
-Ведущий инженер производственного отдела
-Подготовка управляющих программ для ЧПУ
-Полный цикл подготовки производства, в том числе выполнение конструкторской, проектной, рабочей документации.
-Выбор подрядных организаций для выполнения работ, заключение договоров, надзор за ходом и качеством выполняемых работ, осуществление приемки выполненных работ и документации, сдача документации для ввода в эксплуатацию.
-Май 2022 — июнь 2022
-2 месяца
-Xsolla
-Екатеринбург, xsolla.com/ru
-
-QA-стажер
-В команде Launcher выполнял функциональное тестирование и тестирование api.
-Январь 2019 — январь 2020
-1 год 1 месяц
-ППМУП «Водоканал»
-Первоуральск
-
-ЖКХ... Показать еще
-
-Заместитель начальника ПТО
-Подготовка документации, выбор подрядных организаций для выполнения работ, заключение договоров, надзор за ходом и качеством выполняемых работ, осуществление приемки выполненных работ и документации, сдача документации для ввода в эксплуатацию.
-Август 2016 — январь 2019
-2 года 6 месяцев
-ОАО Уральский трубный завод
-Свердловская область
-
-Инженер-конструктор
-Разработка чертежей.
-Осуществление контроля сборки разработанных конструкций в цехе.
-Сопровождение сборки конструкций на строительной площадке.
-Сентябрь 2015 — июль 2016
-11 месяцев
-ООО УралДизайнПроект
-Свердловская область
-
-Строительство, недвижимость, эксплуатация, проектирование... Показать еще
-
-Инженер-конструктор
-Разработка чертежей.
-Осуществление контроля сборки разработанных конструкций.
-Проектирование сетей НВК.
-Составление дефектных ведомостей, сметной документации.
-Разработка и согласование ППР.
-Работа с Заказчиками, Подрядчиками. Ведение переговоров.
-Июль 2014 — декабрь 2014
-6 месяцев
-ООО ИнститутПервоуральскСтройПроект
-Свердловская область, www.ipsproekt.ru
-
-Строительство, недвижимость, эксплуатация, проектирование... Показать еще
-
-Инженер-проектировщик
-Разработка чертежей раздела КМ. Выполнение расчетов конструктивных элементов. Ведение авторского надзора.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Executive Director of Technology**, *SinnerSchrader.* Sept 2015 – Current
-
-  - Responsible for the engineering efforts across multiple project teams.
-  - Functioning as a "Standort Leiter", to manage operations of the office.
-  - Work with technical directors to hire and manage developers at the Munich location.
-  - Influence development process and best practices.
-  - Motivate and support team productivity, efficiency, and happiness.
-
-**VP of Engineering**, *Betable.* July 2015 – August 2016
-
-  - Doubled the Engineering organization to 30 across 4 teams.
-  - Lead the team to succesfully execute on 3 quarters of product delivery.
-  - Built 2016 hiring and organizational growth plan.
-  - Established a sattelite office in Edmonton, Canada.
-  - Migrated engineering to cross functional scrum teams.
-  - Moved the organinization to modern pull request and review process.
-  - Implemented an engineering and support SLA.
-  - Mentored new engineering managers, and put them through formal training.
-
-**VP of Engineering**, *Sauce Labs.* January 2013 – July 2015
-
-  - Built an engineering organization to ~55 across 5 teams to support and scale our infrastructure.
-  - Streamlining development processes, inter-org communication.
-  - Project planning and headcount/resource allocation.
-  - Participant in board meetings and high level strategic decision making.
-  - Working with sales and marketing to meet quarterly revenue goals.
-  - Interfacing directly with top tier customers.
-  - Made technical decisions about our tools and software.
-  - Coordinating the evangelism and developer advocacy effort.
-  - Delivering innovative and polished products.
-
-**Director of Engineering, Web**, *Sauce Labs.* February 2012 – January 2013
-
-  - Built a roadmap for front-end development, hiring a team of engineers to make it a reality.
-  - Improved the Sauce Labs user experience and product messaging.
-  - Contributed to product direction focusing on the software tools and development markets.
-  - Playing technical point when it comes to integrations and partnerships.
-
-**Senior Software Engineer**, *Sauce Labs.* March 2010 – February 2012
-
- - Built intuitive web based applications to help users setup and utilize the Sauce OnDemand cloud testing service.
- - Managed the development of the Open Source test creation IDE, Sauce/Selenium Builder: http://code.google.com/p/se-builder
- - Managed Sauce Labs partnerships and the development and refinement of the Sauce Labs REST API for developer integration
- - Started a NodeJS client library for driving WebDriver: https://github.com/admc/wd
- - Multiple releases of the Windmill Testing Framework (including a re-tooled UI): http://github.com/windmill/windmill
-
-**Senior Engineer, Automation Team Lead**, *Slide Inc.* July 2008 – March 2010
-
- - Lead the company wide effort to adopt test automation into Slide QA.
- - Built an automated testing system using Windmill, Mozmill, Testmill, Hudson, and VMWare
- - Ran automated tests against different staging environments and branches, and result reporting.
- - Lead a team of up to 8 QA Engineers of both in house and outsourced resources writing automated test cases.
-
-During my time at Slide I also worked on FunSpace doing JavaScript and Python development, and SuperPocus doing Flash and Flex development.
-
-**Software Engineer**, *Rearden Commerce.* Jan 08 – July 08
-
- - Client side development of universal widgets for the Rearden Personal Assistant.
- - Maintained JavaScript organization, coding standards, Framework usage and performance.
- - Cross browser compatibility, active involvement in client side architecture and planning.
-
-**QA Engineer**, *Open Source Applications Foundation.* Feb 07 – Jan 08
-
- - Ensure the quality of all front end functionality in the Chandler Server.
- - Interface with developers, release managers and QA for smooth releases.
- - Develop JSON/Python and JavaScript tests to automate release cycles.
- - Maintain Chandler Server instances for automated testing, and QA Sessions.
- - Windmill Test Framework co-creator, developer — http://www.getwindmill.com (created at OSAF by myself and Mikeal Rogers)
-
-**QA Contractor**, *Open Source Applications Foundation.* May 06 – Feb 07
-
- - Python tool development for automated testing using JSON-RPC, CMP.
- - Contributions to the Selenium Core (Web Testing Framework) enhancing AJAX testing functionality.
- - Contributions to the Broadsword testing Framework. (testrunner, stress testing)
-
-EDUCATION
+Образование
 =========
- - Washington State University, Pullman, Washington — B.A Business Administration
- - Washington State University, Pullman, Washington — B.A Computer Science
+ - Уральский федеральный университет имени первого президента России Б. Н. Ельцина
+   Промышленное и гражданское строительство
+ - Яндекс.Практикум Инженер по тестированию
 
 PERSONAL
 ========
-I am a NAUI certiﬁed SCUBA diver, avid mountaineer, skier and sailor. I spent most of my life exploring the Northwest National Forests and Puget Sound. I've spent the last 5 years studying linguistics, specifically the German language and speaking at conferences about language learning techniques. I really enjoy traveling and exploring new places, constantly learning, and building out development projects on the side to keep my skills sharp and up-to date.
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
+Я люблю лыжные прогулки и небольшие походы на природу к красивым местам. 
+Мне очень нравится путешествовать и исследовать новые места, а так же постоянно учиться и разрабатывать проекты, чтобы поддерживать свои навыки в актуальном состоянии.
+
+
