@@ -1,4 +1,4 @@
-Nikita Maltsev - QA Engineer
+Мальцев Никита - QA Engineer
 ---------------
 maltsevns93@gmail.com | WhatsApp +79086376735 | Telegram https://t.me/Maltsevns93
 
