@@ -19,6 +19,12 @@ maltsevns93@gmail.com | WhatsApp +79086376735 | Telegram https://t.me/Maltsevns9
 
 Навыки:
 ---------------
+Чек-лист на проверку оффлайн формы:
+https://drive.google.com/drive/folders/1UOO4DB6j8wU0OUVH7qGaJ3bvEgFlcVhL?usp=share_link
+
+
+Навыки:
+---------------
 
 * Знание методик тестирования, опыт разработки и поддержки чек-листов, тест-кейсов, тест-планов
 * Тестирование требований до разработки
