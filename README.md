@@ -23,6 +23,7 @@ maltsevns93@gmail.com | WhatsApp +79086376735 | Telegram https://t.me/Maltsevns9
 
 * [Чек-лист на верстку и функциональность мобильного приложения и чек-лист на тестирование api веб](https://docs.google.com/spreadsheets/d/1pd32twagaLhueK35Cbbw4EV7r4zUA6XQ-lFAn_X5uh4/edit?usp=sharing)
 
+* [Чек-листы и тест-кейсы на верстку и функциональность веб-приложения](https://docs.google.com/spreadsheets/d/1H965ANaqji2P4YLu4ZyE3vep2Gfg6w8TzgO-Ol6PbYA/edit?usp=sharing)
 
 Навыки:
 ---------------
