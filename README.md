@@ -21,7 +21,7 @@ maltsevns93@gmail.com | WhatsApp +79086376735 | Telegram https://t.me/Maltsevns9
 ---------------
 * [Чек-лист на проверку оффлайн формы бронирования](https://drive.google.com/drive/folders/1UOO4DB6j8wU0OUVH7qGaJ3bvEgFlcVhL?usp=share_link)
 
-* [Чек-лист на верстку и функциональность мобильного приложения и чек-лист на тестирование api веб] (https://docs.google.com/spreadsheets/d/1pd32twagaLhueK35Cbbw4EV7r4zUA6XQ-lFAn_X5uh4/edit?usp=sharing)
+* [Чек-лист на верстку и функциональность мобильного приложения и чек-лист на тестирование api веб](https://docs.google.com/spreadsheets/d/1pd32twagaLhueK35Cbbw4EV7r4zUA6XQ-lFAn_X5uh4/edit?usp=sharing)
 
 
 Навыки:
