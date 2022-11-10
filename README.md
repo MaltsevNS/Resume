@@ -19,8 +19,7 @@ maltsevns93@gmail.com | WhatsApp +79086376735 | Telegram https://t.me/Maltsevns9
 
 Портфолио:
 ---------------
-Чек-лист на проверку оффлайн формы:
-https://drive.google.com/drive/folders/1UOO4DB6j8wU0OUVH7qGaJ3bvEgFlcVhL?usp=share_link
+[Чек-лист на проверку оффлайн формы](https://drive.google.com/drive/folders/1UOO4DB6j8wU0OUVH7qGaJ3bvEgFlcVhL?usp=share_link)
 
 
 Навыки:
