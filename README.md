@@ -73,8 +73,9 @@ maltsevns93@gmail.com | WhatsApp +79086376735 | Telegram https://t.me/Maltsevns9
 - Тестирование API;
 - Баг-трекинг в JIRA;
 
-Контроль версий GitLab
-Ведение документации в Confluence
+Контроль версий GitLab;
+
+Ведение документации в Confluence.
  
  
  **Ведущий инженер производственного отдела**, *ЗАО фирма АЗОС* 
